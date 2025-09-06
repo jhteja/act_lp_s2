@@ -75,5 +75,82 @@
     ],
     "evaluatedAt": "2025-08-30T13:12:40.960Z",
     "evaluatedBy": "Sistema de Evaluación"
+  },
+  "KingAskhar/act_lp_s2": {
+    "repositoryUrl": "KingAskhar/act_lp_s2",
+    "studentName": "David Ramirez Muriel",
+    "activities": [
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio1.java",
+        "score": 3,
+        "fileFound": true,
+        "feedback": "El código funciona y declara variables de diferentes tipos, pero le falta contexto y una descripción clara del objetivo del ejercicio. Podría mejorar la nomenclatura (Estudiante -> esEstudiante) y la modularidad."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio2.java",
+        "score": 1,
+        "fileFound": true,
+        "feedback": "La función `ejercicio2` solo imprime \"Ejercicio 2\" y no contiene la lógica solicitada en la descripción (inexistente). Se debe implementar la funcionalidad requerida para la actividad."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio3.java",
+        "score": 1,
+        "fileFound": true,
+        "feedback": "El código provee la estructura base, pero no implementa ninguna funcionalidad solicitada en el ejercicio. Es necesario agregar la lógica para completar la actividad."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio4.java",
+        "score": 1,
+        "fileFound": true,
+        "feedback": "La actividad no resuelve ningún problema específico, simplemente imprime \"Ejercicio 4\". Falta la implementación del código solicitado en la descripción. Se requiere implementar la lógica del ejercicio."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio5.java",
+        "score": 1,
+        "fileFound": true,
+        "feedback": "La función solo imprime \"Ejercicio 5\" y no implementa la lógica requerida para el ejercicio. Falta la implementación completa de la solución."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio6.java",
+        "score": 1,
+        "fileFound": true,
+        "feedback": "La función está definida pero no contiene la lógica para resolver el ejercicio planteado (que no fue especificado). Falta implementar la funcionalidad principal dentro de la función `ejercicio6()`."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio7.java",
+        "score": 1,
+        "fileFound": true,
+        "feedback": "La actividad no implementa ninguna funcionalidad específica. Solo imprime \"Ejercicio 7\", lo cual no resuelve ningún problema. Se necesita implementar la lógica solicitada en la descripción (que falta en este caso)."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio8.java",
+        "score": 1,
+        "fileFound": true,
+        "feedback": "La actividad solo incluye la estructura básica y un `System.out.println`.  Falta la implementación lógica para resolver el problema planteado en la descripción (que está indefinida, dificultando la evaluación precisa)."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio9.java",
+        "score": 1,
+        "fileFound": true,
+        "feedback": "La actividad no implementa la lógica requerida. Solo contiene un mensaje de impresión genérico.  Se necesita completar el código para resolver el problema planteado en el ejercicio 9."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio10.java",
+        "score": 1,
+        "fileFound": true,
+        "feedback": "El ejercicio 10 solo tiene el esqueleto básico. No se implementó ninguna funcionalidad específica de la actividad descrita, por lo que la solución está incompleta."
+      }
+    ],
+    "overallScore": 1.2,
+    "totalActivities": 10,
+    "completedActivities": 10,
+    "summary": "Necesita mejorar. Completó 10/10 actividades (100%) con una calificación promedio de 1.2/5. Se recomienda revisar los conceptos fundamentales.",
+    "recommendations": [
+      "Revisar y mejorar las actividades con calificación baja",
+      "Enfocarse en mejorar la documentación y comentarios del código",
+      "Aplicar mejores prácticas de programación"
+    ],
+    "evaluatedAt": "2025-09-06T12:42:51.738Z",
+    "evaluatedBy": "Sistema de Evaluación"
   }
 }
