@@ -229,5 +229,83 @@
     ],
     "evaluatedAt": "2025-09-20T03:42:26.954Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
+  },
+  "talzateg-netizen/act_lp_s2": {
+    "repositoryUrl": "talzateg-netizen/act_lp_s2",
+    "studentName": "Tania Jaqueline Alzate Gomez",
+    "activities": [
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio1.java",
+        "score": 0,
+        "fileFound": false,
+        "feedback": ""
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio2.java",
+        "score": 0,
+        "fileFound": false,
+        "feedback": ""
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio3.java",
+        "score": 0,
+        "fileFound": false,
+        "feedback": ""
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio4.java",
+        "score": 0,
+        "fileFound": false,
+        "feedback": ""
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio5.java",
+        "score": 0,
+        "fileFound": false,
+        "feedback": ""
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio6.java",
+        "score": 0,
+        "fileFound": false,
+        "feedback": ""
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio7.java",
+        "score": 1,
+        "fileFound": true,
+        "feedback": "El código solo contiene un 'placeholder' y no implementa la funcionalidad esperada. Falta la lógica para resolver el ejercicio. Se debe completar la implementación dentro del método `ejercicio7()`."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio8.java",
+        "score": 1,
+        "fileFound": true,
+        "feedback": "La función `ejercicio8` está definida pero no contiene ninguna lógica para resolver la actividad. Falta implementar la funcionalidad requerida dentro de la función."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio9.java",
+        "score": 1,
+        "fileFound": true,
+        "feedback": "El código solo tiene la estructura básica pero no implementa la funcionalidad solicitada en la descripción (que no existe). Se necesita implementar la lógica del ejercicio dentro de la función `ejercicio9()`."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio10.java",
+        "score": 1,
+        "fileFound": true,
+        "feedback": "La actividad no presenta ninguna solución al problema planteado. Solo se incluye la declaración del método y un comentario. Es necesario implementar la lógica requerida para completar el ejercicio."
+      }
+    ],
+    "overallScore": 0.4,
+    "totalActivities": 10,
+    "completedActivities": 4,
+    "summary": "Necesita mejorar. Completó 4/10 actividades (40%) con una calificación promedio de 0.4/5. Se recomienda revisar los conceptos fundamentales.",
+    "recommendations": [
+      "Completar los archivos faltantes: src/main/java/com/example/Ejercicio1.java, src/main/java/com/example/Ejercicio2.java, src/main/java/com/example/Ejercicio3.java, src/main/java/com/example/Ejercicio4.java, src/main/java/com/example/Ejercicio5.java, src/main/java/com/example/Ejercicio6.java",
+      "Revisar y mejorar las actividades con calificación baja",
+      "Enfocarse en mejorar la documentación y comentarios del código",
+      "Aplicar mejores prácticas de programación"
+    ],
+    "evaluatedAt": "2025-09-20T03:50:10.102Z",
+    "evaluatedBy": "Sistema de Evaluación Masiva"
   }
 }
