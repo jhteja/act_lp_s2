@@ -384,69 +384,69 @@
     "evaluatedAt": "2025-09-20T03:59:05.362Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   },
-  "caicedoangeljohnfredy6-cmyk/act_lp_s2": {
-    "repositoryUrl": "caicedoangeljohnfredy6-cmyk/act_lp_s2",
-    "studentName": "Estudiante desconocido",
+  "santiagovarela01-cmd/act_lp_s2": {
+    "repositoryUrl": "santiagovarela01-cmd/act_lp_s2",
+    "studentName": "Santiago Varela",
     "activities": [
       {
         "solutionFile": "src/main/java/com/example/Ejercicio1.java",
         "score": 1,
         "fileFound": true,
-        "feedback": "La solución solo contiene una función vacía y un `System.out.println`. No se implementa la funcionalidad requerida en la descripción de la actividad (la cual está indefinida). Se debe completar la implementación del ejercicio."
+        "feedback": "La actividad no resuelve ningún problema específico. Solo imprime \"Ejercicio 1\" pero no contiene la lógica requerida para cumplir con el objetivo, que está indefinido."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio2.java",
         "score": 1,
         "fileFound": true,
-        "feedback": "La actividad no presenta ninguna implementación funcional. Solo muestra un mensaje inicial pero falta la lógica para resolver el problema propuesto."
+        "feedback": "El código solo contiene la estructura básica de la función, pero no implementa la lógica requerida por la actividad.  Es necesario agregar la funcionalidad principal solicitada."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio3.java",
         "score": 1,
         "fileFound": true,
-        "feedback": "La función 'ejercicio3' solo imprime 'Ejercicio 3' y no implementa la lógica requerida para resolver el problema. Falta la implementación del ejercicio en sí."
+        "feedback": "La estructura básica está bien, pero el ejercicio no está resuelto. Falta implementar la lógica requerida en el cuerpo del método `ejercicio3()`."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio4.java",
         "score": 1,
         "fileFound": true,
-        "feedback": "La solución es incompleta. Solo imprime \"Ejercicio 4\" y falta la lógica principal del ejercicio. Se debe implementar la funcionalidad requerida."
+        "feedback": "El archivo solo contiene un esqueleto básico. Falta la implementación del ejercicio descrito en la actividad."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio5.java",
         "score": 1,
         "fileFound": true,
-        "feedback": "La función `ejercicio5` está vacía. No hay ninguna lógica implementada para resolver la actividad descrita, solo un mensaje genérico. Necesitas implementar la funcionalidad requerida."
+        "feedback": "El archivo solo contiene la estructura base de la clase y un comentario 'tu código aquí', sin ninguna implementación funcional para el ejercicio 5. Falta la lógica principal del programa."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio6.java",
         "score": 1,
         "fileFound": true,
-        "feedback": "El código solo contiene la estructura básica y un mensaje. Falta la implementación de la lógica requerida para resolver el ejercicio."
+        "feedback": "El archivo contiene la estructura básica pero no implementa la lógica requerida para resolver el ejercicio. Falta el código dentro del método `ejercicio6()`."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio7.java",
         "score": 1,
         "fileFound": true,
-        "feedback": "El código solo contiene la estructura básica de la clase y un mensaje genérico. Falta la implementación de la lógica del ejercicio. Se debe completar la funcionalidad requerida."
+        "feedback": "El código presenta la estructura básica pero no implementa ninguna funcionalidad específica requerida por la descripción de la actividad (que no se proporciona). Falta el desarrollo del ejercicio."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio8.java",
         "score": 1,
         "fileFound": true,
-        "feedback": "El código solo contiene la estructura inicial pero no implementa ninguna lógica para resolver el problema. Se necesita implementar la funcionalidad requerida en el método `ejercicio8`."
+        "feedback": "El código proporciona la estructura inicial pero no implementa la lógica requerida para el ejercicio. Falta la implementación funcional dentro del método `ejercicio8()`."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio9.java",
         "score": 1,
         "fileFound": true,
-        "feedback": "El código base está presente, pero falta la implementación de la lógica del ejercicio. Es necesario agregar la solución completa dentro del método `ejercicio9()`."
+        "feedback": "El código presenta la estructura básica pero no implementa la lógica para resolver la actividad descrita (que es indefinida, lo cual dificulta la evaluación). Se debe implementar la funcionalidad solicitada dentro del método `ejercicio9()`."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio10.java",
         "score": 1,
         "fileFound": true,
-        "feedback": "El código solo contiene la estructura básica de la clase y un mensaje de impresión. Falta la implementación del problema a resolver. Se debe agregar la lógica necesaria para cumplir con el objetivo de la actividad."
+        "feedback": "La actividad no presenta una solución al problema planteado. Solo imprime 'Ejercicio 10' y contiene un comentario indicando la falta de implementación. Necesita implementar la lógica requerida para resolver el ejercicio."
       }
     ],
     "overallScore": 1,
@@ -458,7 +458,7 @@
       "Enfocarse en mejorar la documentación y comentarios del código",
       "Aplicar mejores prácticas de programación"
     ],
-    "evaluatedAt": "2025-09-20T04:03:45.883Z",
+    "evaluatedAt": "2025-09-20T04:04:47.952Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   }
 }
