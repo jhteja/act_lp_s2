@@ -460,5 +460,80 @@
     ],
     "evaluatedAt": "2025-09-20T04:04:47.952Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
+  },
+  "gomezmadrid118-sketch/act_lp_s2": {
+    "repositoryUrl": "gomezmadrid118-sketch/act_lp_s2",
+    "studentName": "Emmanuel Gómez Madrid",
+    "activities": [
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio1.java",
+        "score": 3,
+        "fileFound": true,
+        "feedback": "El código cumple con imprimir las variables asignadas. La descripción de la actividad es 'undefined', así que asumo que debía declarar e imprimir variables.  Podría mejorar con comentarios explicando el propósito del código y modularizando si la actividad lo requiriera."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio2.java",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "El código declara e imprime variables de diferentes tipos primitivos correctamente. La solución es completa y funcional para la tarea asignada."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio3.java",
+        "score": 4,
+        "fileFound": true,
+        "feedback": "El código funciona y es legible. Sin embargo, la descripción de la actividad es ambigua, asumo que la actividad era simplemente declarar variables y mostrar su contenido. Sería bueno añadir comentarios explicando el propósito del código en lugar de solo la validez de los nombres de las variables."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio4.java",
+        "score": 4,
+        "fileFound": true,
+        "feedback": "El código cumple con la creación y uso de constantes. Podrías agregar comentarios para mejorar la legibilidad y justificar por qué se calcula el área dentro del método `ejercicio4` en lugar de ser un método independiente."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio5.java",
+        "score": 2,
+        "fileFound": true,
+        "feedback": "El código imprime algunos mensajes, pero no hay una descripción clara de la actividad, por lo tanto, no se puede evaluar su completitud. Falta lógica y resolución real del problema (si existe). Se debe añadir la funcionalidad pedida en la descripción de la actividad."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio6.java",
+        "score": 4,
+        "fileFound": true,
+        "feedback": "El código funciona correctamente y cumple con lo solicitado. Considera cerrar el Scanner dentro de un bloque `finally` para asegurar que se cierre incluso si ocurre una excepción. También, intenta validar las entradas (ej. edad) para evitar errores."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio7.java",
+        "score": 3,
+        "fileFound": true,
+        "feedback": "El código realiza una concatenación de strings e impresión de variables, lo cual es correcto, pero la actividad no tiene una descripción clara, limitando una evaluación más profunda. Podría ser más modular y usar constantes para mejorar la legibilidad."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio8.java",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "El código demuestra una buena comprensión de las convenciones de nombres en Java. El programa se ejecuta correctamente y explica de manera clara las reglas de nomenclatura."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio9.java",
+        "score": 3,
+        "fileFound": true,
+        "feedback": "El código funciona, pero no hay una descripción clara de la actividad, por lo que asumo que el estudiante debía imprimir variables con diferentes tipos de datos. Se podría mejorar la claridad del propósito del ejercicio y la encapsulación del código dentro de la función ejercicio9."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio10.java",
+        "score": 3,
+        "fileFound": true,
+        "feedback": "El programa calcula la factura correctamente, pero usa `int` para operaciones con decimales (precio del producto), lo que causa pérdida de precisión. Además, se puede mejorar la legibilidad usando `printf` para formatear la salida y usar `nextLine()` para capturar el nombre del cliente completo."
+      }
+    ],
+    "overallScore": 3.6,
+    "totalActivities": 10,
+    "completedActivities": 10,
+    "summary": "Buen trabajo general. Completó 10/10 actividades (100%) con una calificación promedio de 3.6/5. Hay oportunidades de mejora en algunos aspectos.",
+    "recommendations": [
+      "Revisar y mejorar las actividades con calificación baja"
+    ],
+    "evaluatedAt": "2025-09-20T04:05:51.483Z",
+    "evaluatedBy": "Sistema de Evaluación Masiva"
   }
 }
