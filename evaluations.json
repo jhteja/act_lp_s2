@@ -84,61 +84,61 @@
         "solutionFile": "src/main/java/com/example/Ejercicio1.java",
         "score": 3,
         "fileFound": true,
-        "feedback": "El código funciona y muestra variables con diferentes tipos de datos. Sin embargo, la actividad es trivial y falta una descripción clara de lo que se esperaba. Se recomienda agregar comentarios al código para mejor entendimiento y utilizar nombres de variables más descriptivos (e.g., `esEstudiante` en lugar de `Estudiante`)."
+        "feedback": "El código funciona y muestra las variables, pero falta una descripción clara de la actividad a realizar.  Podrías mejorar la legibilidad y consistencia en el uso de mayúsculas para los nombres de las variables (ej: 'Estudiante')."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio2.java",
         "score": 1,
         "fileFound": true,
-        "feedback": "La actividad no implementa ninguna funcionalidad específica. El método `ejercicio2` solo imprime \"Ejercicio 2\" y contiene un comentario \"tu código aquí\", indicando que falta la implementación principal."
+        "feedback": "El archivo contiene solo la estructura básica del ejercicio, sin la implementación de la lógica requerida. Falta el código específico para resolver la actividad descrita."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio3.java",
         "score": 1,
         "fileFound": true,
-        "feedback": "La actividad no está implementada. Solo se imprime un mensaje genérico y falta la lógica específica del ejercicio. Se debe completar la funcionalidad requerida."
+        "feedback": "El código base está presente, pero falta la implementación de la lógica requerida para el ejercicio. Se necesita agregar la funcionalidad específica para completar la actividad."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio4.java",
         "score": 4,
         "fileFound": true,
-        "feedback": "El código es funcional y demuestra la creación de constantes. Sin embargo, la actividad carece de una descripción clara, lo que dificulta evaluar la completitud. Sugiero definir mejor el propósito del programa en la descripción."
+        "feedback": "El código funciona y define constantes como se espera. Podría ser más genérico permitiendo que el radio del círculo sea un parámetro en lugar de un valor fijo."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio5.java",
         "score": 1,
         "fileFound": true,
-        "feedback": "La función está presente pero no implementa ninguna lógica específica para resolver el ejercicio. Falta el código que realmente realiza la tarea solicitada en la descripción de la actividad (que no fue provista)."
+        "feedback": "El código proporciona la estructura básica para el ejercicio, pero no implementa ninguna funcionalidad.  Necesitas agregar la lógica requerida para resolver el problema planteado en la descripción (la cual está ausente)."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio6.java",
         "score": 1,
         "fileFound": true,
-        "feedback": "El código base está presente, pero no implementa la lógica requerida para resolver el ejercicio. Falta completar la función `ejercicio6()` con la solución específica."
+        "feedback": "La actividad no resuelve ningún problema específico. Solo imprime 'Ejercicio 6' y deja un comentario 'tu código aquí'.  Es necesario implementar la lógica requerida para la actividad."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio7.java",
         "score": 1,
         "fileFound": true,
-        "feedback": "La actividad no implementa la lógica solicitada, solo contiene una declaración de método y un `println`. Falta completar la solución con la funcionalidad requerida en el ejercicio."
+        "feedback": "La actividad no presenta ninguna solución al problema planteado, solo muestra un mensaje genérico. Falta la implementación del algoritmo solicitado en la descripción (que no fue provista)."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio8.java",
         "score": 1,
         "fileFound": true,
-        "feedback": "La actividad simplemente imprime \"Ejercicio 8\" y no implementa ninguna funcionalidad específica.  Es necesario agregar la lógica correspondiente al Ejercicio 8 para obtener una calificación más alta."
+        "feedback": "La actividad no está resuelta. Solo se imprime \"Ejercicio 8\" y falta la implementación del código solicitado. Se necesita completar la funcionalidad requerida en la descripción del ejercicio."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio9.java",
         "score": 1,
         "fileFound": true,
-        "feedback": "La actividad solo contiene el esqueleto de la función. Falta la implementación de la lógica solicitada en la descripción (que actualmente es undefined). Se necesita implementar la funcionalidad requerida."
+        "feedback": "El código proporciona una estructura básica pero no implementa la lógica requerida para resolver el ejercicio 9. Falta la funcionalidad principal dentro del método `ejercicio9()`."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio10.java",
         "score": 1,
         "fileFound": true,
-        "feedback": "El código sólo incluye el esqueleto básico. Falta la implementación de la lógica del ejercicio 10."
+        "feedback": "El código proporciona la estructura inicial, pero no implementa la lógica requerida para resolver el ejercicio 10. Falta la implementación principal dentro del método `ejercicio10()`."
       }
     ],
     "overallScore": 1.5,
@@ -150,8 +150,8 @@
       "Enfocarse en mejorar la documentación y comentarios del código",
       "Aplicar mejores prácticas de programación"
     ],
-    "evaluatedAt": "2025-09-20T03:44:00.046Z",
-    "evaluatedBy": "Sistema de Evaluación Masiva"
+    "evaluatedAt": "2025-09-20T14:26:30.110Z",
+    "evaluatedBy": "Sistema de Evaluación"
   },
   "Guelo708/act_lp_s2": {
     "repositoryUrl": "Guelo708/act_lp_s2",
