@@ -384,79 +384,81 @@
     "evaluatedAt": "2025-09-20T03:59:05.362Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   },
-  "jhanklondonoc-spec/act_lp_s2": {
-    "repositoryUrl": "jhanklondonoc-spec/act_lp_s2",
-    "studentName": "jhank Dair londono cifuentes",
+  "galactus88/act_lp_s2": {
+    "repositoryUrl": "galactus88/act_lp_s2",
+    "studentName": "Estudiante desconocido",
     "activities": [
       {
         "solutionFile": "src/main/java/com/example/Ejercicio1.java",
-        "score": 3,
+        "score": 1,
         "fileFound": true,
-        "feedback": "El código cumple con imprimir variables en consola, pero la descripción de la actividad es 'undefined', por lo que la completitud es baja. Se recomienda definir mejor la actividad para una evaluación más precisa."
+        "feedback": "El código solo imprime \"Ejercicio 1\" y provee un comentario. No resuelve ninguna actividad, por lo tanto, necesita implementar la lógica requerida en el cuerpo del método `ejercicio1()`."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio2.java",
-        "score": 4,
+        "score": 1,
         "fileFound": true,
-        "feedback": "El código cumple con mostrar los tipos de datos primitivos. Podría agregar comentarios explicando el propósito del programa y las variables."
+        "feedback": "El código base está presente, pero falta la implementación real del ejercicio. Se necesita agregar la lógica para completar la actividad."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio3.java",
-        "score": 3,
+        "score": 1,
         "fileFound": true,
-        "feedback": "El código funciona y declara variables correctamente, pero la descripción de la actividad es 'undefined', por lo que no se puede evaluar si resuelve el problema correctamente. La explicación sobre las buenas prácticas en los nombres de variables es útil, pero podría ser más concisa."
+        "feedback": "La solución provee la estructura inicial pero no implementa la lógica requerida para resolver el ejercicio. Falta el código que realiza la funcionalidad descrita en la actividad."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio4.java",
-        "score": 4,
+        "score": 1,
         "fileFound": true,
-        "feedback": "El código funciona y calcula el área correctamente. Podrías agregar comentarios explicando el propósito de cada sección para mayor claridad."
+        "feedback": "El código proporciona una estructura básica pero no implementa la lógica requerida para la actividad. Falta el cuerpo principal del ejercicio dentro del método `ejercicio4()`."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio5.java",
         "score": 1,
         "fileFound": true,
-        "feedback": "El código solo imprime texto estático. Falta la implementación de la lógica específica del ejercicio. Necesitas completar el programa para resolver el problema planteado."
+        "feedback": "El código proporciona la estructura básica, pero falta la implementación de la lógica del ejercicio. Necesitas completar la función `ejercicio5()` con la solución al problema planteado."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio6.java",
-        "score": 4,
+        "score": 1,
         "fileFound": true,
-        "feedback": "El código funciona correctamente y cumple con la funcionalidad esperada. Se recomienda incluir comentarios para mejorar la legibilidad y manejar posibles excepciones en la entrada de datos (ej: si el usuario ingresa un texto en lugar de un número)."
+        "feedback": "El código provee la estructura inicial pero no implementa ninguna funcionalidad específica para el ejercicio 6. Se requiere completar la lógica del problema."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio7.java",
-        "score": 4,
+        "score": 1,
         "fileFound": true,
-        "feedback": "El código cumple con la funcionalidad solicitada. Sin embargo, la descripción de la actividad está indefinida, lo que dificulta una evaluación completa. Considera agregar una descripción clara de la actividad en futuras entregas."
+        "feedback": "La función está vacía y no implementa ninguna lógica específica. Debe implementarse la funcionalidad requerida en la descripción del problema (que está ausente)."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio8.java",
-        "score": 4,
+        "score": 1,
         "fileFound": true,
-        "feedback": "El código muestra ejemplos correctos e incorrectos de identificadores en Java. Podrías haber incluído una breve descripción del objetivo del ejercicio en la descripción del archivo y evitar las líneas comentadas en el código, eliminándolas o mostrando la forma correcta en lugar de comentada."
+        "feedback": "El código solo presenta la estructura básica del ejercicio pero no implementa ninguna lógica para resolver el problema planteado.  Es necesario agregar la funcionalidad requerida en el cuerpo del método `ejercicio8()`."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio9.java",
-        "score": 3,
+        "score": 1,
         "fileFound": true,
-        "feedback": "El código funciona y declara las variables correctamente, pero no hay una descripción clara de la actividad, por lo que la solución es genérica. Debería agregar una descripción de la actividad para una mejor evaluación."
+        "feedback": "El código proporciona una estructura básica, pero no implementa la lógica requerida para resolver el ejercicio. Falta implementar la funcionalidad específica solicitada en la descripción de la actividad."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio10.java",
-        "score": 4,
+        "score": 1,
         "fileFound": true,
-        "feedback": "El programa funciona correctamente y calcula la factura. Podrías mejorar la legibilidad usando `printf` para formatear la salida de los decimales y considerar usar un método para calcular el IVA y el total."
+        "feedback": "La actividad no presenta ninguna implementación de la lógica solicitada. Solo muestra un mensaje por consola y un comentario, lo cual es insuficiente."
       }
     ],
-    "overallScore": 3.4,
+    "overallScore": 1,
     "totalActivities": 10,
     "completedActivities": 10,
-    "summary": "Buen trabajo general. Completó 10/10 actividades (100%) con una calificación promedio de 3.4/5. Hay oportunidades de mejora en algunos aspectos.",
+    "summary": "Necesita mejorar. Completó 10/10 actividades (100%) con una calificación promedio de 1.0/5. Se recomienda revisar los conceptos fundamentales.",
     "recommendations": [
-      "Revisar y mejorar las actividades con calificación baja"
+      "Revisar y mejorar las actividades con calificación baja",
+      "Enfocarse en mejorar la documentación y comentarios del código",
+      "Aplicar mejores prácticas de programación"
     ],
-    "evaluatedAt": "2025-09-20T04:00:26.944Z",
+    "evaluatedAt": "2025-09-20T04:01:36.429Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   }
 }
