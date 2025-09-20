@@ -306,5 +306,82 @@
     ],
     "evaluatedAt": "2025-09-20T03:53:50.487Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
+  },
+  "ramoi1643-hash/act_lp_s2": {
+    "repositoryUrl": "ramoi1643-hash/act_lp_s2",
+    "studentName": "David Ramirez Muriel",
+    "activities": [
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio1.java",
+        "score": 1,
+        "fileFound": true,
+        "feedback": "El código base está presente, pero no se implementó la lógica para resolver el ejercicio descrito. Se necesita completar la función `ejercicio1` con la solución al problema."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio2.java",
+        "score": 1,
+        "fileFound": true,
+        "feedback": "La actividad presenta una función vacía. Falta la implementación completa del ejercicio según la descripción provista."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio3.java",
+        "score": 1,
+        "fileFound": true,
+        "feedback": "El código provee la estructura básica pero no implementa ninguna funcionalidad requerida por la descripción de la actividad. Falta completar la lógica del ejercicio dentro del método `ejercicio3()`."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio4.java",
+        "score": 1,
+        "fileFound": true,
+        "feedback": "El código base está presente, pero falta la implementación del ejercicio. La función `ejercicio4` simplemente imprime un mensaje, sin realizar ninguna acción específica relacionada con la descripción (inexistente) de la actividad."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio5.java",
+        "score": 1,
+        "fileFound": true,
+        "feedback": "El código provee la estructura base, pero no implementa la lógica requerida para la actividad. Falta la implementación del problema planteado en el cuerpo del método `ejercicio5()`."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio6.java",
+        "score": 1,
+        "fileFound": true,
+        "feedback": "La actividad no implementa ninguna funcionalidad específica. Solo imprime 'Ejercicio 6'. Se requiere completar la lógica del ejercicio."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio7.java",
+        "score": 1,
+        "fileFound": true,
+        "feedback": "El código proporciona una estructura básica, pero no implementa la funcionalidad requerida por la descripción de la actividad (que falta). Se necesita implementar la lógica del ejercicio 7 dentro del método `ejercicio7()`."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio8.java",
+        "score": 1,
+        "fileFound": true,
+        "feedback": "El código solo contiene una función vacía y un mensaje genérico. No se implementa ninguna lógica específica para resolver la actividad, por lo que la funcionalidad es nula."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio9.java",
+        "score": 1,
+        "fileFound": true,
+        "feedback": "El código base está presente, pero no se implementa la lógica requerida para resolver el ejercicio. Necesitas agregar la funcionalidad específica a la función `ejercicio9()`."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio10.java",
+        "score": 1,
+        "fileFound": true,
+        "feedback": "La solución solo incluye un método vacío.  Es necesario implementar la lógica solicitada en la descripción del ejercicio, que está ausente."
+      }
+    ],
+    "overallScore": 1,
+    "totalActivities": 10,
+    "completedActivities": 10,
+    "summary": "Necesita mejorar. Completó 10/10 actividades (100%) con una calificación promedio de 1.0/5. Se recomienda revisar los conceptos fundamentales.",
+    "recommendations": [
+      "Revisar y mejorar las actividades con calificación baja",
+      "Enfocarse en mejorar la documentación y comentarios del código",
+      "Aplicar mejores prácticas de programación"
+    ],
+    "evaluatedAt": "2025-09-20T03:55:11.623Z",
+    "evaluatedBy": "Sistema de Evaluación Masiva"
   }
 }
