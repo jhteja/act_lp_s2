@@ -461,81 +461,79 @@
     "evaluatedAt": "2025-09-20T04:04:47.952Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   },
-  "samuidarraga10/act_lp_s2": {
-    "repositoryUrl": "samuidarraga10/act_lp_s2",
-    "studentName": "Estudiante desconocido",
+  "ciroescuderobrayan-SDJ/act_lp_s2": {
+    "repositoryUrl": "ciroescuderobrayan-SDJ/act_lp_s2",
+    "studentName": "Brayan Esneider Ciro Escudero",
     "activities": [
       {
         "solutionFile": "src/main/java/com/example/Ejercicio1.java",
-        "score": 1,
+        "score": 4,
         "fileFound": true,
-        "feedback": "La actividad solo contiene la estructura inicial. Falta la implementación de la lógica requerida en el ejercicio."
+        "feedback": "El código funciona correctamente y cumple con lo básico. Sin embargo, la actividad es muy simple; considera agregar más complejidad o interactividad en futuros ejercicios para demostrar un entendimiento más profundo."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio2.java",
-        "score": 1,
+        "score": 4,
         "fileFound": true,
-        "feedback": "El código proporciona la estructura básica de la clase y el método, pero falta la implementación real de la lógica requerida por la actividad. Es necesario agregar el código que resuelve el problema planteado."
+        "feedback": "El código cumple con la declaración e impresión de los tipos de datos primitivos. Podría mejorar agregando comentarios explicativos y la descripción del problema que resuelve."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio3.java",
-        "score": 1,
+        "score": 5,
         "fileFound": true,
-        "feedback": "La estructura básica está presente, pero el ejercicio no está resuelto. Falta la implementación del código requerido para la actividad."
+        "feedback": "El código es correcto y sigue las buenas prácticas de nomenclatura (lowerCamelCase). La solución es completa y funcional."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio4.java",
-        "score": 1,
+        "score": 4,
         "fileFound": true,
-        "feedback": "La actividad no resuelve ningún problema específico. Solo imprime 'Ejercicio 4'. Necesitas implementar la lógica requerida en el cuerpo de la función `ejercicio4()`."
+        "feedback": "El código funciona correctamente y demuestra el uso de constantes. Podrías considerar usar `Math.PI` en lugar de definir tu propia constante para PI y encapsular el cálculo del área en una función separada para mejor reusabilidad."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio5.java",
-        "score": 1,
+        "score": 3,
         "fileFound": true,
-        "feedback": "El archivo proporciona la estructura básica para el ejercicio, pero no contiene la lógica o el código requerido para resolver la actividad. Falta implementar la funcionalidad solicitada."
+        "feedback": "El código muestra ejemplos de impresión en Java, pero no resuelve una actividad específica.  Se requiere un problema/ejercicio concreto para evaluar la solución."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio6.java",
-        "score": 1,
+        "score": 4,
         "fileFound": true,
-        "feedback": "La actividad no está resuelta. Solo presenta el esqueleto inicial con un `System.out.println`. Falta implementar la lógica solicitada en la descripción de la actividad."
+        "feedback": "El código resuelve el problema planteado correctamente y es legible. Sería bueno agregar manejo de excepciones (ej. InputMismatchException al leer la edad) para hacerlo más robusto."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio7.java",
-        "score": 1,
+        "score": 5,
         "fileFound": true,
-        "feedback": "El código proporciona una estructura básica, pero no implementa la funcionalidad requerida para el ejercicio. Falta implementar la lógica específica del problema planteado."
+        "feedback": "El código resuelve la actividad correctamente y demuestra el uso de concatenación de strings de diferentes maneras. La estructura es clara y el código es fácil de entender."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio8.java",
-        "score": 1,
+        "score": 4,
         "fileFound": true,
-        "feedback": "El código provee la estructura inicial pero no implementa la funcionalidad requerida para el ejercicio. Falta la lógica para resolver el problema planteado."
+        "feedback": "El código demuestra una comprensión clara de los identificadores válidos e inválidos en Java. Sin embargo, la actividad parece ser solo ilustrativa, sin una descripción específica de una tarea a realizar más allá de esto."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio9.java",
-        "score": 1,
+        "score": 4,
         "fileFound": true,
-        "feedback": "La actividad no resuelve ningún problema específico, solo imprime \"Ejercicio 9\".  Es necesario implementar la lógica solicitada en la descripción de la actividad (que está ausente). Considera añadir comentarios y documentación para explicar el código."
+        "feedback": "El código cumple con lo solicitado en el ejercicio. Buen uso de nombres descriptivos y lowerCamelCase.  Podría mejorar agregando comentarios explicando el propósito del código."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio10.java",
-        "score": 1,
+        "score": 4,
         "fileFound": true,
-        "feedback": "El código solo contiene la estructura básica y no implementa la lógica solicitada en la descripción de la actividad. Falta completar la funcionalidad del ejercicio dentro del método `ejercicio10()`."
+        "feedback": "El código funciona correctamente y cumple con los requisitos del problema. Se podrían mejorar los nombres de las variables para mayor claridad y considerar el uso de NumberFormat para formatear la salida de los precios."
       }
     ],
-    "overallScore": 1,
+    "overallScore": 4.1,
     "totalActivities": 10,
     "completedActivities": 10,
-    "summary": "Necesita mejorar. Completó 10/10 actividades (100%) con una calificación promedio de 1.0/5. Se recomienda revisar los conceptos fundamentales.",
+    "summary": "Excelente trabajo. Completó 10/10 actividades (100%) con una calificación promedio de 4.1/5. Demuestra buen dominio de los conceptos.",
     "recommendations": [
-      "Revisar y mejorar las actividades con calificación baja",
-      "Enfocarse en mejorar la documentación y comentarios del código",
-      "Aplicar mejores prácticas de programación"
+      "Continuar con el excelente trabajo y mantener la calidad del código"
     ],
-    "evaluatedAt": "2025-09-20T04:07:56.374Z",
-    "evaluatedBy": "Sistema de Evaluación Masiva"
+    "evaluatedAt": "2025-09-20T04:11:44.234Z",
+    "evaluatedBy": "Sistema de Evaluación de No Calificados"
   }
 }
