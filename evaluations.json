@@ -461,79 +461,79 @@
     "evaluatedAt": "2025-09-20T04:04:47.952Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   },
-  "ciroescuderobrayan-SDJ/act_lp_s2": {
-    "repositoryUrl": "ciroescuderobrayan-SDJ/act_lp_s2",
-    "studentName": "Brayan Esneider Ciro Escudero",
+  "JD0P/act_lp_s2": {
+    "repositoryUrl": "JD0P/act_lp_s2",
+    "studentName": "Juan David Ospina",
     "activities": [
       {
         "solutionFile": "src/main/java/com/example/Ejercicio1.java",
         "score": 4,
         "fileFound": true,
-        "feedback": "El código funciona correctamente y cumple con lo básico. Sin embargo, la actividad es muy simple; considera agregar más complejidad o interactividad en futuros ejercicios para demostrar un entendimiento más profundo."
+        "feedback": "El código cumple con lo esperado, pero la descripción de la actividad es inexistente.  Sería bueno agregar un comentario Javadoc describiendo el propósito de la función `ejercicio1()`."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio2.java",
         "score": 4,
         "fileFound": true,
-        "feedback": "El código cumple con la declaración e impresión de los tipos de datos primitivos. Podría mejorar agregando comentarios explicativos y la descripción del problema que resuelve."
+        "feedback": "El código funciona correctamente y muestra el uso de tipos de datos primitivos.  Sería bueno añadir comentarios explicando brevemente el propósito de cada variable o el ejercicio en general."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio3.java",
-        "score": 5,
+        "score": 4,
         "fileFound": true,
-        "feedback": "El código es correcto y sigue las buenas prácticas de nomenclatura (lowerCamelCase). La solución es completa y funcional."
+        "feedback": "El código cumple con la declaración e inicialización de variables de diferentes tipos, aunque la descripción de la actividad es indefinida. Considera agregar una descripción de la actividad para entender el propósito del ejercicio."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio4.java",
         "score": 4,
         "fileFound": true,
-        "feedback": "El código funciona correctamente y demuestra el uso de constantes. Podrías considerar usar `Math.PI` en lugar de definir tu propia constante para PI y encapsular el cálculo del área en una función separada para mejor reusabilidad."
+        "feedback": "El código cumple con lo solicitado y funciona correctamente. Podrías considerar mover las declaraciones de variables dentro del método `ejercicio4` a la parte superior para mayor claridad y evitar el uso de `Math.PI` en lugar de definir una constante. Además, considera si esta función debe ser estática o instanciable dependiendo del contexto."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio5.java",
-        "score": 3,
+        "score": 4,
         "fileFound": true,
-        "feedback": "El código muestra ejemplos de impresión en Java, pero no resuelve una actividad específica.  Se requiere un problema/ejercicio concreto para evaluar la solución."
+        "feedback": "El código cumple con la funcionalidad descrita. Se recomienda usar `System.out.printf` para formatear la salida de la edad de forma más eficiente y considera nombrar la función con un estilo más descriptivo (e.g., `imprimirMensajes`) si es posible."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio6.java",
         "score": 4,
         "fileFound": true,
-        "feedback": "El código resuelve el problema planteado correctamente y es legible. Sería bueno agregar manejo de excepciones (ej. InputMismatchException al leer la edad) para hacerlo más robusto."
+        "feedback": "El código funciona correctamente y cumple con la entrada y salida de datos solicitada.  Sin embargo, la clase `Ejercicio6` debería tener un nombre más descriptivo y la función `ejercicio6` también. Considera usar nombres que reflejen el propósito del programa. Además, aunque cerrar el Scanner es bueno, hacerlo dentro del método `ejercicio6` impide su reutilización en otros métodos que pudieran necesitar la entrada estándar. Considera cerrarlo en un punto más apropiado del programa."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio7.java",
-        "score": 5,
+        "score": 4,
         "fileFound": true,
-        "feedback": "El código resuelve la actividad correctamente y demuestra el uso de concatenación de strings de diferentes maneras. La estructura es clara y el código es fácil de entender."
+        "feedback": "El código funciona correctamente y cumple con lo esperado. Se recomienda usar `String.format` o `StringBuilder` para una mejor concatenación de cadenas, especialmente cuando se trata de construir mensajes más complejos."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio8.java",
-        "score": 4,
+        "score": 5,
         "fileFound": true,
-        "feedback": "El código demuestra una comprensión clara de los identificadores válidos e inválidos en Java. Sin embargo, la actividad parece ser solo ilustrativa, sin una descripción específica de una tarea a realizar más allá de esto."
+        "feedback": "La solución identifica correctamente las variables válidas e inválidas según las reglas de Java. El código es claro, conciso y cumple con el objetivo del ejercicio."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio9.java",
-        "score": 4,
+        "score": 3,
         "fileFound": true,
-        "feedback": "El código cumple con lo solicitado en el ejercicio. Buen uso de nombres descriptivos y lowerCamelCase.  Podría mejorar agregando comentarios explicando el propósito del código."
+        "feedback": "El código funciona y declara e imprime las variables correctamente. Sin embargo, falta la descripción de la actividad para determinar si cumple con los requisitos específicos. Además, la función 'ejercicio9' debería tener un nombre más descriptivo sobre lo que se espera que haga."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio10.java",
         "score": 4,
         "fileFound": true,
-        "feedback": "El código funciona correctamente y cumple con los requisitos del problema. Se podrían mejorar los nombres de las variables para mayor claridad y considerar el uso de NumberFormat para formatear la salida de los precios."
+        "feedback": "El código resuelve el problema planteado de manera correcta y legible. Podría mejorarse la organización general moviendo la declaración de constantes dentro del método y considerar el uso de `printf` para un mejor formato de salida de los precios."
       }
     ],
-    "overallScore": 4.1,
+    "overallScore": 4,
     "totalActivities": 10,
     "completedActivities": 10,
-    "summary": "Excelente trabajo. Completó 10/10 actividades (100%) con una calificación promedio de 4.1/5. Demuestra buen dominio de los conceptos.",
+    "summary": "Excelente trabajo. Completó 10/10 actividades (100%) con una calificación promedio de 4.0/5. Demuestra buen dominio de los conceptos.",
     "recommendations": [
       "Continuar con el excelente trabajo y mantener la calidad del código"
     ],
-    "evaluatedAt": "2025-09-20T04:11:44.234Z",
+    "evaluatedAt": "2025-09-20T04:12:50.337Z",
     "evaluatedBy": "Sistema de Evaluación de No Calificados"
   }
 }
